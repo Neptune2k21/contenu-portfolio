@@ -3,6 +3,7 @@ title: Table complète, les coulisses
 summary: Ce trimestre à l'ESGI, on construit à deux une application Android qui sert le plat, le verre et le dessert. Tout est parti d'une question que je n'aurais pas dû poser.
 tags: [android, kotlin, compose, esgi]
 date: 2026-11-15
+draft: true
 ---
 
 Tout est parti d'une question que je n'aurais pas dû poser.
